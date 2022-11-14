@@ -1,5 +1,5 @@
 ### Hey there! I am [@jean-n92](https://github.com/jean-n92) and Gian is my call name.
-#### I am a DevOps engineer and I am currently working for **[@ABNAMRO](https://github.com/ABNAMRO)**, located in the beautiful **[Amsterdam](https://en.wikipedia.org/wiki/Amsterdam)**.
+#### I am a DevOps engineer and I am currently working for **[Kaiko](http://kaiko.ai/)**, located in the beautiful **[Amsterdam](https://en.wikipedia.org/wiki/Amsterdam)**.
 
 #### Development
 Currently, I mainly work with [cpython](https://github.com/python/cpython) and [scala](https://github.com/scala/scala), along with many of the known packages (e.g. [pre-commit](https://github.com/pre-commit/pre-commit), [tox](https://github.com/tox-dev/tox), [pylint](https://github.com/PyCQA/pylint), etc.) and technologies (e.g. [Jenkins](https://www.jenkins.io/), [GitHub Actions](https://docs.github.com/en/actions), [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/), [Travis CI](https://www.travis-ci.com/)) that usually go hand in hand with the CI/CD workflow.
